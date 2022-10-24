@@ -439,7 +439,7 @@ theme.set_highlights = function()
   -- NvimTree
   hl(0, "NvimTreeFolderIcon", { link = 'Directory' })
   hl(0, "NvimTreeIndentMarker", { fg = c.B4T_b4, bg = 'NONE' })
-  hl(0, "NvimTreeNormal", { fg = c.B4T_B22, bg = c.B4T_b2,  })
+  hl(0, "NvimTreeNormal", { fg = c.B4T_b16, bg = c.B4T_b2,  })
   hl(0, "NvimTreeWinSeparator", { fg = c.B4T_b2, bg = c.B4T_b2 })
   hl(0, "NvimTreeFolderName", { link = 'Directory' })
   hl(0, "NvimTreeOpenedFolderName", { fg = c.B4T_B23, bg = 'NONE', bold=true, })
