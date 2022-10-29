@@ -458,6 +458,11 @@ theme.set_highlights = function()
   hl(0, "NvimTreeSymlink", { fg = c.B4T_C12, bg = 'NONE' })
   hl(0, "NvimTreeRootFolder", { fg = c.B4T_B6, bg = 'NONE', bold=true, })
   hl(0, "NvimTreeExecFile", { fg = c.B4T_a9, bg = 'NONE' })
+
+  -- Marks
+  hl(0, "MarkSignHL", { fg = c.B4T_A5, bg = c.B4T_b20 })
+  hl(0, "MarkSignNumHL", { fg = c.B4T_b9, bg = c.B4T_b20 })
+  hl(0, "MarkVirtTextHL", { fg = c.B4T_b5, bg = c.B4T_b20 })
 end
 
 return theme

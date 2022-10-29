@@ -2,7 +2,7 @@
 
 Collection of color-schemes with limited color-palettes for Neovim written in lua. All colorschemes included come in a dark and light version.
 
-Base4Tone-nvim is adapted alongside Treesitter. It supports quite a few popular plugins for Neovim like Lualine, Telescope, Nvim-Tree, IndentBlankline and GitSigns.
+Base4Tone-nvim is adapted alongside Treesitter. It supports quite a few popular plugins for Neovim like Lualine, Telescope, Nvim-Tree, IndentBlankline, GitSigns and [Marks](https://github.com/chentoast/marks.nvim).
 
 For the most seamless experience within the terminal: these same color schemes are also ported to [iTerm2](https://github.com/atelierbram/Base4Tone-iterm2) and [Hyper](https://github.com/atelierbram/Base4Tone-hyper). For terminals which don’t support truecolor please use [Base4Tone-vim](https://github.com/atelierbram/Base4Tone-vim) instead.
 
