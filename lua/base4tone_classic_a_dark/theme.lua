@@ -387,11 +387,12 @@ theme.set_highlights = function()
   hl(0, "HopPreview", { fg = c.B4T_A19, bg = 'NONE' })
 
   -- Whichkey
-  hl(0, "WhichKey", { fg = c.B4T_D13, bg = 'NONE' })
-  hl(0, "WhichKeySeperator", { fg = c.B4T_A16, bg = 'NONE' })
-  hl(0, "WhichKeyGroup", { fg = c.B4T_B16, bg = 'NONE' })
-  hl(0, "WhichKeyDesc", { fg = c.B4T_B23, bg = 'NONE' })
-  hl(0, "WhichKeyFloat", { fg = 'NONE', bg = c.B4T_b2 })
+  hl(0, "WhichKey", { fg = c.B4T_c16, bg = 'NONE' })
+  hl(0, "WhichKeyGroup", { fg = c.B4T_B14, bg = 'NONE' })
+  hl(0, "WhichKeySeperator", { fg = c.B4T_b8, bg = 'NONE' })
+  hl(0, "WhichKeyDesc", { fg = c.B4T_a17, bg = 'NONE' })
+  hl(0, "WhichKeyFloat", { fg = c.B4T_B23, bg = c.B4T_b2 })
+  hl(0, "WhichKeyValue", { fg = c.B4T_b8, bg = 'NONE' })
 
   -- Git
   hl(0, "SignAdd", { fg = c.B4T_a8, bg = c.B4T_b4 })
